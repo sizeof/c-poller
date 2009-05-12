@@ -25,7 +25,7 @@
 #include "ei.h"
 
 #define BUFSIZE 1024
-#define MAXUSERS (65536*3)
+#define MAXUSERS 65536
 
 static void settings_init(void);
 
